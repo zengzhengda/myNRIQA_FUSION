@@ -1,0 +1,2 @@
+# myNRIQA_FUSION
+基于特征融合的NR-IQA
